@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-excel-project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_excel_project_jar</output-path>
+    <root id="archive" name="java-excel-project.jar">
+      <element id="module-output" name="java-excel-project" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-3.12/poi-3.12-20150511.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-3.12/poi-ooxml-3.12-20150511.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-3.12/poi-examples-3.12-20150511.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-3.12/poi-excelant-3.12-20150511.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-3.12/poi-scratchpad-3.12-20150511.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-3.12/poi-ooxml-schemas-3.12-20150511.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
