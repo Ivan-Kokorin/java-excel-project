@@ -13,7 +13,7 @@ public class Process implements Runnable {
     public Process(File selectedFile) {
         this.selectedFile = selectedFile;
         this.infoTable = InfoTable.getInfoTable(selectedFile);
-        dbManager = DbManager.getDbManager(); // - засинглтонить
+        dbManager = DbManager.getDbManager();
         excelManager = infoTable.getExcelManager();
         sizeRowTable = infoTable.getSizeRowTable();
         column = infoTable.getColumn();
