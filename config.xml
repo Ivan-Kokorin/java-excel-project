@@ -1,0 +1,7 @@
+<root>
+    <db_config id="db_config1">
+        <login val="" name="login"/>
+        <password val="" name="password"/>
+        <url val="" name="url"/>
+    </db_config>
+</root>
